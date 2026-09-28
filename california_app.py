@@ -7,7 +7,7 @@ Modelx = joblib.load('model.joblib')
 Model = Modelx['model']
 
 Values = Modelx['columns']
-st.title('california app')
+st.title('california Housing App')
 
 v = []
 
